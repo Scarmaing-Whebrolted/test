@@ -1,5 +1,12 @@
 develop content
 
 cat content
+<<<<<<< HEAD
 
 dog content
+
+rhino content
+=======
+lion content
+dog content
+>>>>>>> develop
